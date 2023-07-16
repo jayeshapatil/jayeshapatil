@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayeshapatil/Jayesh-Portfolio](https://github.com/jayeshapatil/Jayesh-Portfolio)
 
+- ✅ Design creative and powerful/dynamic insights 
+
 - 👨‍💻 Accept Freelancing Work and Remote Job
 
 - 📫 How to reach me **jayeshpatil98819@gmail.com**
