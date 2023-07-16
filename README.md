@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayeshapatil/Jayesh-Portfolio](https://github.com/jayeshapatil/Jayesh-Portfolio)
 
-- 👨‍💻 Accept Freelancing Work/Remote Job
+- 👨‍💻 Accept Freelancing Work and Remote Job
 
 - 📫 How to reach me **jayeshpatil98819@gmail.com**
 
