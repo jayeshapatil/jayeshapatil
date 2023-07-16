@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayeshapatil/Jayesh-Portfolio](https://github.com/jayeshapatil/Jayesh-Portfolio)
 
-- ✅ Design creative and powerful/dynamic insights 
+- ✅ Design creative and powerful/dynamic Power BI Dashboards 
 
 - 👨‍💻 Accept Freelancing Work and Remote Job
 
