@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/red_dot_jayesh" target="blank"><img src="https://img.shields.io/twitter/follow/red_dot_jayesh?logo=twitter&style=for-the-badge" alt="red_dot_jayesh" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI, Excel, Python, Azure Databricks/ADF**
+- 🌱 I’m currently working on **Power BI, Excel** and Learning **Python, Azure Databricks/ADF**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayeshapatil/Jayesh-Portfolio](https://github.com/jayeshapatil/Jayesh-Portfolio)
 
